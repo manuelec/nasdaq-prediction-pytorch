@@ -1,2 +1,2 @@
 # nasdaq-prediction-pytorch
-Predicting NASDAQ with PyTorch Deep Learning model
+Predicting NASDAQ with PyTorch  / Time Series Attention Model
