@@ -1,7 +1,8 @@
 # nasdaq-prediction-pytorch
 ## Advanced Time Series Forecasting with PyTorch - NASDAQ
-This project implements an advanced time series forecasting model using PyTorch to predict NASDAQ and S&P 500 stock indices.
-The Notebook *Advanced_Time_Series_PyTorch_V2.ipynb* is following described:
+This project implements an advanced time series forecasting model using PyTorch to predict NASDAQ leveraging covariates like S&P 500, VIX stock indices.
+The Jupyter Notebook *Advanced_Time_Series_PyTorch_V2.ipynb* was developed in Google Colab using CPU.
+Following you can find an high level description of the workflow implementation, but my advice is to look at the Notebook worflow that includes brief descriptions for esch step.
 
 ### Dataset
 The dataset (yfinance) includes the following features:
@@ -10,7 +11,8 @@ The dataset (yfinance) includes the following features:
 - S&P 500 closing prices
 - 10-Year Treasury Yield (DGS10)
 - CBOE Volatility Index (VIX)
-- Additional engineered features:
+
+Additional engineered features:
 - Log-transformed prices
 - Returns
 - Volatility
