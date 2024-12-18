@@ -1,6 +1,9 @@
-# nasdaq-prediction-pytorch
-## Advanced Time Series Forecasting with PyTorch - NASDAQ
-This project implements an advanced time series forecasting model using PyTorch to predict NASDAQ leveraging covariates like S&P 500, VIX stock indices.
+# nasdaq-prediction
+
+## 1- AutoGluon TS Forecasting - NASDAQ (Jupyter Notebook)
+
+## 2- Advanced Time Series Forecasting with PyTorch - NASDAQ (Jupyter Notebook)
+The project implements an advanced time series forecasting model using PyTorch to predict NASDAQ leveraging covariates like S&P 500, VIX stock indices.
 The Jupyter Notebook *Advanced_Time_Series_PyTorch_V2.ipynb* was developed in Google Colab using CPU.
 Following you can find an high level description of the workflow implementation, but my advice is to look at the Notebook worflow that includes brief descriptions for esch step.
 
